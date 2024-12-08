@@ -1,6 +1,6 @@
 import { Grid, Typography } from "@mui/material";
 import React from "react";
-import { GetStarted } from "./utility";
+import { GetStarted } from "../Utility/utility";
 
 function Hero2() {
   return (
