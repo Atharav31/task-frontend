@@ -11,6 +11,10 @@ import Navbar from "./components/navbar";
 import OurService from "./components/Ourservice";
 import Streamline from "./components/Streamline";
 import Action from "./components/Action";
+import PeaceOfMind from "./components/PeaceOfMind";
+import Testimonial from "./components/Testimonial";
+import Faq from "./components/Faq";
+import ContactUs from "./components/ContactUs";
 
 function App() {
   return (
@@ -23,6 +27,10 @@ function App() {
       <Streamline />
       <DriveProperty />
       <Action />
+      <PeaceOfMind />
+      <Testimonial />
+      <Faq />
+      <ContactUs />
       <Footer />
     </>
   );
