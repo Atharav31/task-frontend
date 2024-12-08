@@ -38,7 +38,7 @@ const ServiceCard = ({ icon, title, description }) => {
           <img
             src={icon}
             alt={`${title} Icon`}
-            style={{ width: "32px", height: "32px" }}
+            style={{ width: "42px", height: "42px" }}
           />
         </Box>
         <Typography
