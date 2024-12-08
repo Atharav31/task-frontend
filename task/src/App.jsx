@@ -13,8 +13,8 @@ import Streamline from "./components/Streamline";
 import Action from "./components/Action";
 import PeaceOfMind from "./components/PeaceOfMind";
 import Testimonial from "./components/Testimonial";
-import Faq from "./components/Faq";
 import ContactUs from "./components/ContactUs";
+import FAQ from "./components/Faq";
 
 function App() {
   return (
@@ -29,7 +29,7 @@ function App() {
       <Action />
       <PeaceOfMind />
       <Testimonial />
-      <Faq />
+      <FAQ />
       <ContactUs />
       <Footer />
     </>

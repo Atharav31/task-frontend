@@ -9,7 +9,7 @@ const TopBar = styled("div")({
   justifyContent: "space-between",
   alignItems: "center",
   position: "sticky",
-  height: "100px",
+  height: "125px",
   top: 0,
   zIndex: 1000,
   backdropFilter: "blur(10px)",
